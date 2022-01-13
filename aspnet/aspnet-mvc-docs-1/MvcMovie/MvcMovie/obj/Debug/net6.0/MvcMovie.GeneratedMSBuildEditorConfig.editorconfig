@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = T:\github\placeholdergit\all\aspnet\aspnet-mvc-docs-1\MvcMovie\MvcMovie
 build_property._RazorSourceGeneratorDebug = 
 
+[T:/github/placeholdergit/all/aspnet/aspnet-mvc-docs-1/MvcMovie/MvcMovie/Views/HelloWorld/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/github/placeholdergit/all/aspnet/aspnet-mvc-docs-1/MvcMovie/MvcMovie/Views/HelloWorld/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [T:/github/placeholdergit/all/aspnet/aspnet-mvc-docs-1/MvcMovie/MvcMovie/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
